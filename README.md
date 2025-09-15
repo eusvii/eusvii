@@ -13,7 +13,7 @@ I like to build software that makes people's lives that little bit easier.
 <table class="table table-bordered table-striped">
   <thead>
     <tr>
-      <th scope="col">💻 Currently Working On</th>
+      <th scope="col">⚒️ Currently Working On</th>
       <th scope="col">📚 Tech Stack</th>
     </tr>
   </thead>
