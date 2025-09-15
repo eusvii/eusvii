@@ -19,7 +19,7 @@ I like to build software that makes people's lives that little bit easier.
   </thead>
   <tbody>
     <tr>
-      <td>Finance Forms App - Dissertation Project</td>
+      <td>Finance Forms App (Dissertation Project)</td>
       <td>Expo, React Native, NativeWind, Gluestack UI, Supabase</td>
     </tr>
   </tbody>
