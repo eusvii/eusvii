@@ -2,7 +2,7 @@
 
 I'm Eme, I like to build software that makes people's lives that little bit easier.
 
-As of right now I am having a lot of fun with Expo building my dissertation project 🔥.
+I’m currently working on my dissertation project which I am building in Expo 🔥.
 
 Fun fact:
 
