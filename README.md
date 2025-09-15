@@ -3,7 +3,7 @@
 <div id="user-content-toc">
   <ul class="list-unstyled">
     <summary>
-      <h1 class="fs-3">Hi👋, I'm Eme</h1>
+      <h3>Hi👋, I'm Eme</h3>
     </summary>
   </ul>
 </div>
