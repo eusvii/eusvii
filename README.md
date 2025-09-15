@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Eme, I like to build software that makes people's lives that little bit easier.
+
+As of right now I am having a lot of fun with Expo building my dissertation project.
 <!--
 **eusvii/eusvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
