@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 I'm Eme, I like to build software that makes people's lives that little bit easier.
 
