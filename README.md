@@ -27,4 +27,4 @@ I like to build software that makes people's lives that little bit easier.
 
 Fun fact:
 
-...erm let me have a think 🤔.
+...erm let me think 🤔.
