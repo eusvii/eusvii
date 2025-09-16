@@ -20,7 +20,11 @@ I like to build software that makes people's lives that little bit easier.
   <tbody>
     <tr>
       <td>Finance Forms App (Dissertation Project)</td>
-      <td>Expo, React Native, NativeWind, Gluestack UI, Supabase</td>
+      <td>Expo, NativeWind, Gluestack UI, Supabase</td>
+    </tr>
+     <tr>
+      <td>Workout Tracker</td>
+      <td>Expo, NativeWind, Gluestack UI</td>
     </tr>
   </tbody>
 </table>
