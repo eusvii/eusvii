@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-I like to build software that makes people's lives that little bit easier.
+I like to build applications that makes people's lives that little bit easier.
 
 <table class="table table-bordered table-striped">
   <thead>
