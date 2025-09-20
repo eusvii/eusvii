@@ -23,7 +23,7 @@ I like to build applications that makes people's lives that little bit easier.
       <td>Expo, NativeWind, Gluestack UI, Supabase</td>
     </tr>
      <tr>
-      <td>Workout Tracker</td>
+      <td>Workout Log</td>
       <td>Expo, NativeWind, Gluestack UI</td>
     </tr>
   </tbody>
