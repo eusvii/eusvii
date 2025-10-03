@@ -22,10 +22,6 @@ I like to build applications that makes people's lives that little bit easier.
       <td>Finance Forms App (Dissertation Project)</td>
       <td>Expo, NativeWind, Gluestack UI, Supabase</td>
     </tr>
-     <tr>
-      <td>RepTrack (Personal Project)</td>
-      <td>Expo, NativeWind, Gluestack UI</td>
-    </tr>
   </tbody>
 </table>
 
