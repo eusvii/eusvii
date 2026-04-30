@@ -1,30 +1,7 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.8/css/bootstrap-grid.min.css" integrity="sha512-dOjUSaLkr6G2pwQ7ry9juX+iXw5602zg1kg8yH+guR3uSEidGyCnOEQnGlr7xwu/8WE+pVm1ZNqaIs5ETTIJQg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<div id="user-content-toc">
-  <ul class="list-unstyled">
-    <summary>
-      <h3>Hi👋, I'm Eme</h3>
-    </summary>
-  </ul>
-</div>
+# Hi👋, I'm Eme
 
 I like to build applications that makes people's lives that little bit easier.
 
-<table class="table table-bordered table-striped">
-  <thead>
-    <tr>
-      <th scope="col">⚒️ Currently Working On</th>
-      <th scope="col">📚 Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Society Finance Forms (Dissertation Project)</td>
-      <td>Expo, NativeWind, Gluestack UI, Supabase</td>
-    </tr>
-  </tbody>
-</table>
-
-Fun fact:
-
-...erm let me think 🤔.
+| Currently Working On |
+| ------------------------ |
+| Society Finance Forms (Dissertation Project) |
